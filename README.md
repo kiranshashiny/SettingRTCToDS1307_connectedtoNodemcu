@@ -12,5 +12,8 @@ Connect the SCL to D2 of Nodemcu
 Connect the SDA to D1 of Nodemcu
 
 
+Handicap is that if the power is lost/disconnected, the RTC loses it's time tracking ability and needs to be set all over again by compiling the sketch ( meaning it has to be near a laptop)
+
+
 
 
